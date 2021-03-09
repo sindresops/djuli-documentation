@@ -28,3 +28,4 @@ In addition to manual data upload from the computer, djuli can also aquire data 
 
 
 
+Learn more in [ZP Academy](https://academy.zimmerpeacock.com/courses)

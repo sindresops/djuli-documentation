@@ -8,3 +8,5 @@ Continuous studies are time-dependent studies that include:
 
 
 ![](continuousStudies.gif)
+
+Learn more in [ZP Academy](https://academy.zimmerpeacock.com/courses)

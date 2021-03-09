@@ -2,25 +2,14 @@
 
 # Raw Graph
 
-# Title 1
-
-## Title 2
-
-### Title 3
-
-#### Title 4
-
-##### Title 5
-
-###### Title 6
-
-It is the graphical representation of the Raw data. Modified by Jose.
+It is the graphical representation of the Raw data.
 
 ![](RAW.png)
 
-1. **Concentration:** Concentrations acquired from the data files. Each color represents a different concentration in the plot.
-2. **Y-axis (Current):** Magnitude of current. The units and range can be modified in 'Plot Properties -> Units'
+A. **Concentration:** Concentrations acquired from the data files. Each color represents a different concentration in the plot.
 
-![](phSensor.png)
+B. **Y-axis:** Magnitude of current. The units and range can be modified in 'Plot Properties -> Units'
+
+C.  **X-axis:** Value of t1 in the X-axis. This variable is employed in the construction of the Delta Fit Plot. The width is defined by the variable 'mean'. The variable 't1' and 'mean' can be modified in the properties of the Delta Fit Plot.
 
 [https://www.youtube.com/watch?v=B6uVRVLYjJs]()
