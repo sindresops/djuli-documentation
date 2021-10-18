@@ -2,25 +2,25 @@
 
 ##### Delimited files
 
-.csv - The first column will be interpreted as the x-data, and the remining columns as the y-data sharing the same x-axis. 
+**.csv -** The first column will be interpreted as the x-data, and the remining columns as the y-data sharing the same x-axis. 
 
-.pss - Same as .csv, but output from PalmSens PStrace
+**.pss -** Same as .csv, but output from PalmSens PStrace
 
 ##### JSON structures
 
-.pssession - Output from PStrace
+**.pssession -** Output from PStrace
 
 ##### XML structures
 
-.mod - Output from DropSense instruments
+**.mod -** Output from DropSense instruments
 
 ##### Images
 
-.png, jpeg, .bmp - that will display in the report
+**.png, jpeg, .bmp -** that will display in the report
 
 ##### Other types
 
-.dt6: Output from DeltaLink dataloggers
+**.dt6 -**  Output from DeltaLink dataloggers
 
 ##### Other data souces
 
